@@ -88,7 +88,6 @@ function displayCurrentSong(currentSong) {
   songsContainer.innerHTML = ""; // Limpiamos el contenedor
 
   // Creamos la tarjeta de la canción
-  // Creamos la tarjeta de la canción
   var songCard = document.createElement("div");
   songCard.className = "card mb-3";
   songCard.innerHTML = `
