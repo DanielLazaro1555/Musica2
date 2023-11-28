@@ -1,0 +1,112 @@
+/* Estilos personalizados para el reproductor de música */
+
+/* Barra de búsqueda */
+#searchInput {
+    margin-top: 10px;
+    width: calc(100% - 20px); /* Resta 20px para dar espacio total a los lados */
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-left: 10px; /* Ajusta el espacio en el lado izquierdo según sea necesario */
+    margin-right: 10px; /* Ajusta el espacio en el lado derecho según sea necesario */
+  }
+  
+  /* Estilos adicionales para mejorar la apariencia */
+  #searchInput:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+  #searchInput::placeholder {
+    color: #6c757d;
+  }
+  
+  
+    
+    /* Contenedor de sugerencias */
+    #suggestionsContainer {
+      position: absolute;
+      width: 100%;
+      max-height: 200px;
+      overflow-y: auto;
+      border: 1px solid #ccc;
+      background-color: #fff;
+      z-index: 1000;
+    }
+    
+    .suggestion {
+      padding: 10px;
+      cursor: pointer;
+    }
+    
+    .suggestion:hover {
+      background-color: #f0f0f0;
+    }
+    
+    /* Tarjeta de canción */
+  .card {
+      margin: 20px;
+    }
+    
+    /* Botones */
+    .btn {
+      cursor: pointer;
+    }
+    
+    /* Centrar contenido */
+    .d-flex {
+      align-items: center;
+      justify-content: center;
+    }
+    
+    /* Resto de tus estilos de Bootstrap u otros estilos existentes */
+    
+   /* Estilos personalizados para el reproductor de audio */
+  .audio-player {
+    width: 100%;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column; /* Cambiado a columna para apilarse en dispositivos pequeños */
+  }
+  
+  .audio-controls {
+    display: flex;
+    flex: 1; /* Ocupar todo el espacio vertical disponible */
+    flex-direction: column; /* Asegurarse de que los controles se apilen verticalmente */
+  }
+  
+  .audio-progress {
+    flex: 1;
+  }
+  
+  #progressBar {
+    width: 100%; /* Hacer que la barra de reproducción ocupe todo el ancho disponible */
+  }
+  #playPauseButton {
+    margin: 0 auto; /* Establecer margen automático para centrar horizontalmente */
+  }
+  
+  /* Resto de tus estilos */
+  body {
+    background-color: rgba(227, 227, 227, 0.47843137255); /* R, G, B, Opacidad */
+  }
+  #currentTime {
+    text-align: center;
+  }
+  
+  #prevButton,
+  #nextButton {
+    font-weight: bold; /* Hacer el texto más negrita */
+    font-size: 30px;
+  }
+  
+  .d-flex {
+    /* Puedes ajustar este valor según sea necesario */
+    font-weight: bold; /* También puedes aplicar negrita a todos los elementos dentro de la clase d-flex si es necesario */
+  }
