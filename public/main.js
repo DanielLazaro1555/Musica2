@@ -7,13 +7,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Lógica de ofuscación de la URL
   const obfuscatedURL = obfuscateURL(
-    "https://raw.githubusercontent.com/DanielLazaro1555/Musica1/main/public/bd.json"
+    "https://raw.githubusercontent.com/DanielLazaro1555/Musica2/main/public/bd.json"
   );
 
   // Llamamos a la función loadJSON con la URL ofuscada
   loadJSON(atob(obfuscatedURL));
 });
-
+local;
 var currentSongIndex = 0; // Índice de la canción actual
 var allSongsData; // Variable para almacenar todos los datos de las canciones
 var audioPlayer; // Variable para el reproductor de audio
