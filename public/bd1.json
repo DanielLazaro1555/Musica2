@@ -328,6 +328,71 @@
     "album": "Build The Cities (Reconstructions)",
     "numero_de_pista": "1/7",
     "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274303_2.flac",
+    "descripcion": "198274303",
+    "imagen": "Albums/198274303.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Build The Cities (Grabbitz Remix)",
+    "artista": "Karma Fields",
+    "album": "Build The Cities (Reconstructions)",
+    "numero_de_pista": "2/7",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274303_3.flac",
+    "descripcion": "198274303",
+    "imagen": "Albums/198274303.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Build The Cities (Project 46 Remix)",
+    "artista": "Karma Fields",
+    "album": "Build The Cities (Reconstructions)",
+    "numero_de_pista": "3/7",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274303_4.flac",
+    "descripcion": "198274303",
+    "imagen": "Albums/198274303.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Build The Cities (Kastle Remix)",
+    "artista": "Karma Fields",
+    "album": "Build The Cities (Reconstructions)",
+    "numero_de_pista": "4/7",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274303_5.flac",
+    "descripcion": "198274303",
+    "imagen": "Albums/198274303.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Build The Cities (AC Slater Remix)",
+    "artista": "Karma Fields",
+    "album": "Build The Cities (Reconstructions)",
+    "numero_de_pista": "5/7",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274303_6.flac",
+    "descripcion": "198274303",
+    "imagen": "Albums/198274303.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Build The Cities (Rootkit Remix)",
+    "artista": "Karma Fields",
+    "album": "Build The Cities (Reconstructions)",
+    "numero_de_pista": "6/7",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274303_7.flac",
+    "descripcion": "198274303",
+    "imagen": "Albums/198274303.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Build The Cities (Redial Remix)",
+    "artista": "Karma Fields",
+    "album": "Build The Cities (Reconstructions)",
+    "numero_de_pista": "7/7",
+    "Año": "2015"
   }
-
 ]
