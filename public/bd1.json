@@ -53,5 +53,27 @@
     "album": "Words (feat. Laura Brehm)",
     "numero_de_pista": "1/1",
     "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274298_1.flac",
+    "descripcion": "198274298",
+    "imagen": "Albums/198274298.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Waking Dreams",
+    "artista": "TwoThirds",
+    "album": "Waking Dreams",
+    "numero_de_pista": "1/5",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274298_2.flac",
+    "descripcion": "198274298",
+    "imagen": "Albums/198274298.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Waking Dreams (Drum and Bass VIP Mix)",
+    "artista": "TwoThirds",
+    "album": "Waking Dreams",
+    "numero_de_pista": "2/5",
+    "Año": "2012"
   }
 ]
