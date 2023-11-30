@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Lógica de ofuscación de la URL
   const obfuscatedURL = obfuscateURL(
-    "https://raw.githubusercontent.com/DanielLazaro1555/Musica2/main/public/bd.json"
+    "https://raw.githubusercontent.com/DanielLazaro1555/Musica2/main/public/bd1.json"
   );
 
   // Llamamos a la función loadJSON con la URL ofuscada
