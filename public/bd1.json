@@ -75,5 +75,38 @@
     "album": "Waking Dreams",
     "numero_de_pista": "2/5",
     "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274298_3.flac",
+    "descripcion": "198274298",
+    "imagen": "Albums/198274298.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Waking Dreams (Insan3Lik3 Remix)",
+    "artista": "TwoThirds",
+    "album": "Waking Dreams",
+    "numero_de_pista": "3/5",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274298_4.flac",
+    "descripcion": "198274298",
+    "imagen": "Albums/198274298.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Waking Dreams (Hellberg Remix)",
+    "artista": "TwoThirds",
+    "album": "Waking Dreams",
+    "numero_de_pista": "4/5",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274298_5.flac",
+    "descripcion": "198274298",
+    "imagen": "Albums/198274298.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Waking Dreams (Soulero Remix)",
+    "artista": "TwoThirds",
+    "album": "Waking Dreams",
+    "numero_de_pista": "5/5",
+    "Año": "2012"
   }
 ]
