@@ -108,5 +108,60 @@
     "album": "Waking Dreams",
     "numero_de_pista": "5/5",
     "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274299_1.flac",
+    "descripcion": "198274299",
+    "imagen": "Albums/198274299.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Solace",
+    "artista": "Feint & Laura Brehm",
+    "album": "Solace",
+    "numero_de_pista": "1/1",
+    "Año": "2019"
+  },
+  {
+    "archivo_musica": "Albums/198274300_1.flac",
+    "descripcion": "198274300",
+    "imagen": "Albums/198274300.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Dreams",
+    "artista": "Rogue",
+    "album": "Dreams",
+    "numero_de_pista": "1/4",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274300_2.flac",
+    "descripcion": "198274300",
+    "imagen": "Albums/198274300.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Air",
+    "artista": "Rogue",
+    "album": "Dreams",
+    "numero_de_pista": "2/4",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274300_3.flac",
+    "descripcion": "198274300",
+    "imagen": "Albums/198274300.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Moments",
+    "artista": "Rogue",
+    "album": "Dreams",
+    "numero_de_pista": "3/4",
+    "Año": "2012"
+  },
+  {
+    "archivo_musica": "Albums/198274300_4.flac",
+    "descripcion": "198274300",
+    "imagen": "Albums/198274300.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Escape",
+    "artista": "Rogue",
+    "album": "Dreams",
+    "numero_de_pista": "4/4",
+    "Año": "2012"
   }
 ]
