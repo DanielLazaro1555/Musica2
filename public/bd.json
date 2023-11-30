@@ -9,5 +9,27 @@
     "album": "Outbreak",
     "numero_de_pista": "1/1",
     "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274294_1.flac",
+    "descripcion": "198274294",
+    "imagen": "Albums/198274294.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "We Won't Be Alone",
+    "artista": "Feint & Laura Brehm",
+    "album": "We Won't Be Alone",
+    "numero_de_pista": "1/1",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274295_1.flac",
+    "descripcion": "198274295",
+    "imagen": "Albums/198274295.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Worth The Lie",
+    "artista": "Muzz, Koven & Feint",
+    "album": "Worth The Lie",
+    "numero_de_pista": "1/1",
+    "Año": "2017"
   }
 ]
