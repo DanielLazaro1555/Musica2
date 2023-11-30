@@ -31,5 +31,16 @@
     "album": "Worth The Lie",
     "numero_de_pista": "1/1",
     "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274296_1.flac",
+    "descripcion": "198274296",
+    "imagen": "Albums/198274296.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Snake Eyes",
+    "artista": "Feint feat. CoMa",
+    "album": "Snake Eyes",
+    "numero_de_pista": "1/1",
+    "Año": "2012"
   }
 ]
