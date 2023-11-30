@@ -47,9 +47,9 @@
     "archivo_musica": "Albums/198274297_1.flac",
     "descripcion": "198274297",
     "imagen": "Albums/198274297.jpg",
-    "genero": "Dance & DJ/Drum & Bass",
-    "titulo": "Words",
-    "artista": "Monstercat",
+    "genero": "",
+    "titulo": "Words (feat. Laura Brehm)",
+    "artista": "Feint",
     "album": "Words (feat. Laura Brehm)",
     "numero_de_pista": "1/1",
     "Año": "2016"
@@ -60,7 +60,7 @@
     "imagen": "Albums/198274298.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Waking Dreams",
-    "artista": "TwoThirds",
+    "artista": "TwoThirds & Laura Brehm",
     "album": "Waking Dreams",
     "numero_de_pista": "1/5",
     "Año": "2012"
@@ -71,7 +71,7 @@
     "imagen": "Albums/198274298.jpg",
     "genero": "Dance & DJ/Drum & Bass",
     "titulo": "Waking Dreams (Drum and Bass VIP Mix)",
-    "artista": "TwoThirds",
+    "artista": "TwoThirds & Laura Brehm",
     "album": "Waking Dreams",
     "numero_de_pista": "2/5",
     "Año": "2012"
@@ -82,7 +82,7 @@
     "imagen": "Albums/198274298.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Waking Dreams (Insan3Lik3 Remix)",
-    "artista": "TwoThirds",
+    "artista": "TwoThirds & Laura Brehm",
     "album": "Waking Dreams",
     "numero_de_pista": "3/5",
     "Año": "2012"
@@ -93,7 +93,7 @@
     "imagen": "Albums/198274298.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Waking Dreams (Hellberg Remix)",
-    "artista": "TwoThirds",
+    "artista": "TwoThirds & Laura Brehm",
     "album": "Waking Dreams",
     "numero_de_pista": "4/5",
     "Año": "2012"
@@ -104,7 +104,7 @@
     "imagen": "Albums/198274298.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Waking Dreams (Soulero Remix)",
-    "artista": "TwoThirds",
+    "artista": "TwoThirds & Laura Brehm",
     "album": "Waking Dreams",
     "numero_de_pista": "5/5",
     "Año": "2012"
@@ -126,7 +126,7 @@
     "imagen": "Albums/198274300.jpg",
     "genero": "Dance & DJ",
     "titulo": "Dreams",
-    "artista": "Rogue",
+    "artista": "Rogue feat. Laura Brehm",
     "album": "Dreams",
     "numero_de_pista": "1/4",
     "Año": "2012"
@@ -148,7 +148,7 @@
     "imagen": "Albums/198274300.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Moments",
-    "artista": "Rogue",
+    "artista": "Rogue feat. Meg Dean",
     "album": "Dreams",
     "numero_de_pista": "3/4",
     "Año": "2012"
@@ -170,7 +170,7 @@
     "imagen": "Albums/198274301.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "The Encryption",
-    "artista": "Au5",
+    "artista": "Au5 feat. Nasty Purple & Kenny Raye",
     "album": "The Encryption",
     "numero_de_pista": "1/2",
     "Año": "2020"
@@ -203,7 +203,7 @@
     "imagen": "Albums/198274302.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Stickup [Explicit]",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields & Morten feat. Juliette Lewis",
     "album": "New Age | Dark Age",
     "numero_de_pista": "2/12",
     "Año": "2016"
@@ -247,7 +247,7 @@
     "imagen": "Albums/198274302.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Greatness",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Talib Kweli",
     "album": "New Age | Dark Age",
     "numero_de_pista": "6/12",
     "Año": "2016"
@@ -258,7 +258,7 @@
     "imagen": "Albums/198274302.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Scandal",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. C.C. Sheffield",
     "album": "New Age | Dark Age",
     "numero_de_pista": "7/12",
     "Año": "2016"
@@ -269,7 +269,7 @@
     "imagen": "Albums/198274302.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Build The Cities",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Kerli",
     "album": "New Age | Dark Age",
     "numero_de_pista": "8/12",
     "Año": "2016"
@@ -291,7 +291,7 @@
     "imagen": "Albums/198274302.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Faint Echoes",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Monarchy",
     "album": "New Age | Dark Age",
     "numero_de_pista": "10/12",
     "Año": "2016"
@@ -313,7 +313,7 @@
     "imagen": "Albums/198274302.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Build The Cities +",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Kerli",
     "album": "New Age | Dark Age",
     "numero_de_pista": "12/12",
     "Año": "2016"
@@ -324,7 +324,7 @@
     "imagen": "Albums/198274303.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Build The Cities (Empire of Sound)",
-    "artista": "Karma Fields",
+    "artista": "Tristam feat. Karma Fields & Kerli",
     "album": "Build The Cities (Reconstructions)",
     "numero_de_pista": "1/7",
     "Año": "2015"
@@ -335,7 +335,7 @@
     "imagen": "Albums/198274303.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Build The Cities (Grabbitz Remix)",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Kerli",
     "album": "Build The Cities (Reconstructions)",
     "numero_de_pista": "2/7",
     "Año": "2015"
@@ -346,7 +346,7 @@
     "imagen": "Albums/198274303.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Build The Cities (Project 46 Remix)",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Kerli",
     "album": "Build The Cities (Reconstructions)",
     "numero_de_pista": "3/7",
     "Año": "2015"
@@ -357,7 +357,7 @@
     "imagen": "Albums/198274303.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Build The Cities (Kastle Remix)",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Kerli",
     "album": "Build The Cities (Reconstructions)",
     "numero_de_pista": "4/7",
     "Año": "2015"
@@ -368,7 +368,7 @@
     "imagen": "Albums/198274303.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Build The Cities (AC Slater Remix)",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Kerli",
     "album": "Build The Cities (Reconstructions)",
     "numero_de_pista": "5/7",
     "Año": "2015"
@@ -379,7 +379,7 @@
     "imagen": "Albums/198274303.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Build The Cities (Rootkit Remix)",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Kerli",
     "album": "Build The Cities (Reconstructions)",
     "numero_de_pista": "6/7",
     "Año": "2015"
@@ -390,7 +390,7 @@
     "imagen": "Albums/198274303.jpg",
     "genero": "Dance & DJ/House",
     "titulo": "Build The Cities (Redial Remix)",
-    "artista": "Karma Fields",
+    "artista": "Karma Fields feat. Kerli",
     "album": "Build The Cities (Reconstructions)",
     "numero_de_pista": "7/7",
     "Año": "2015"
@@ -445,7 +445,7 @@
     "imagen": "Albums/198274308.jpg",
     "genero": "Dance & DJ",
     "titulo": "The Calling",
-    "artista": "TheFatRat",
+    "artista": "TheFatRat feat. Laura Brehm",
     "album": "The Calling",
     "numero_de_pista": "1/2",
     "Año": "2016"
@@ -511,7 +511,7 @@
     "imagen": "Albums/198274312.jpg",
     "genero": "Rap & Hip-Hop",
     "titulo": "Sarracenia",
-    "artista": "SKY-HI & BE:FIRST",
+    "artista": "SKY-HI",
     "album": "Sarracenia / Salvia",
     "numero_de_pista": "1/4",
     "Año": "2023"
@@ -522,7 +522,7 @@
     "imagen": "Albums/198274312.jpg",
     "genero": "Rap & Hip-Hop",
     "titulo": "Salvia",
-    "artista": "SKY-HI & BE:FIRST",
+    "artista": "BE:FIRST",
     "album": "Sarracenia / Salvia",
     "numero_de_pista": "2/4",
     "Año": "2023"
@@ -533,7 +533,7 @@
     "imagen": "Albums/198274312.jpg",
     "genero": "Rap & Hip-Hop",
     "titulo": "Sarracenia -Instrumental-",
-    "artista": "SKY-HI & BE:FIRST",
+    "artista": "SKY-HI",
     "album": "Sarracenia / Salvia",
     "numero_de_pista": "3/4",
     "Año": "2023"
@@ -544,7 +544,7 @@
     "imagen": "Albums/198274312.jpg",
     "genero": "Rap & Hip-Hop",
     "titulo": "Salvia -Instrumental-",
-    "artista": "SKY-HI & BE:FIRST",
+    "artista": "BE:FIRST",
     "album": "Sarracenia / Salvia",
     "numero_de_pista": "4/4",
     "Año": "2023"
@@ -555,7 +555,7 @@
     "imagen": "Albums/198274313.jpg",
     "genero": "Dance & DJ/Drum & Bass",
     "titulo": "More",
-    "artista": "Subformat & Charli Brix",
+    "artista": "Subformat",
     "album": "More",
     "numero_de_pista": "1/1",
     "Año": "2012"
